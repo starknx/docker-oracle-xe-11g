@@ -31,8 +31,8 @@ compatible=11.2.0.0.0
 diagnostic_dest=/u01/app/oracle
 #memory_target=1073741824
 #memory_target=1073741824
-pga_aggregate_target=200540160
-sga_target=601620480
+pga_aggregate_target=40M
+sga_target=140M
  
 
 ###########################################
